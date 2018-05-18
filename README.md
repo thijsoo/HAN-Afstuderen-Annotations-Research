@@ -14,5 +14,6 @@ To create new LAB follow these steps:
 To run a LAB:
 
 1. ```cd {labname}```
-2. ```php bin/console server:start```
-3. ```open route url for lab```
+2. ```composer install```
+3. ```php bin/console server:start```
+4. ```open route url for lab```
